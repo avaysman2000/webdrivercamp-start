@@ -1,0 +1,18 @@
+EMACS
+
+0. M-x find-file RET or C-x C-f 
+1. M-x save-buffer RET or C-x C-f 
+2. M-x kill-whole-line RET or C-S-backspace
+3. M-x yank RET or C-y
+5. M-x undo RET or C-/ (or C-x u)
+6. M-x save-buffers-kill-emacs RET or C-x C-c
+
+Vi
+
+7. Press i while in normal mode.  This will take you to insert mode.  You can start typing text (text will be inserted before the cursor position).
+8. First you need to make sure you are in normal mode by presing 'ESC'.  Then, type 'dd'.
+10. Pres 'u' while in normal mode
+11. If you are in normal mode, press Esc to ensure you are in normal mode.  Type :q! and then press Enter.
+12. Make sure you are in normal mode by pressing Esc.  Then, press '0'.
+13. Make sure you are in normal mode by pressing Esc.  Then, press '$'
+
